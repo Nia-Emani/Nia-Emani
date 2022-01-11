@@ -2,8 +2,8 @@
 <h3> I am a software engineer based in Atlanta, GA</h3>
 
 
-- ✍  I'm currently working on my portfolio site
-- 🔍  I'm looking for an opportunity to work on a software engineering team in the FinTech space
+- ✍  I'm currently working on an application called "You're It!".
+- 🔍  I'm looking for an opportunity to work on a dynamic and collaborative software engineering team
 - 🌱 I’m in the process of mastering React.js and Ruby-on-Rails
 - 💞️ I’m looking to collaborate on projects intended to assist people in underrepresented communities
 - 📫 I can be reached via email at _**[niaemanidickson@gmail.com](https://mail.google.com)**_
